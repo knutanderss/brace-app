@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Brace.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>62D98AEE846F2684F0018581F5B7B2BA90B8073C</string>
+				<key>dateExpires</key>
+				<string>31/03/2023</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>VRHKQF65AS.come.brace.Brace</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>VRHKQF65AS</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Brace.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>d1a20e7c-8da3-43c8-b41a-b731943e8a6d</string>
+				<key>dateExpires</key>
+				<string>31/03/2023</string>
+				<key>name</key>
+				<string>Brace Profile</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>VRHKQF65AS</string>
+				<key>name</key>
+				<string>Knut Anders Stokke</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
