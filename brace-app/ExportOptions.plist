@@ -13,7 +13,7 @@
 		<key>displayImageURL</key>
 		<string>https://brace-server.herokuapp.com/static/display-57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://brace-server.herokuapp.com/static/display-512.png</string>
+		<string>https://brace-server.herokuapp.com/static/display-1024.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
